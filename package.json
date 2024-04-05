@@ -1,0 +1,21 @@
+{
+    "name": "realtimeimages",
+    "description": "",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "index.php",
+    "scripts": {
+        "start": "RetaxMaster"
+        
+    },
+    "dependencies": {
+    "express": "4.18.3",
+    "express-form-data": "2.0.23",
+    "express-handlebars": "7.1.2",
+    "mysql": "2.18.1",
+    "socket.io": "4.7.4"
+    },
+    "devDependencies": {
+        "nodemon": "3.1.0"
+    }
+}
